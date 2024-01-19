@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on crescendo worldwide as frontend developer 
+- 🔭 I’m currently working on crescendo worldwide as a frontend developer 
 - 🌱 I’m currently learning web developement
