@@ -1,5 +1,5 @@
 <h1 align="center">Swapnil Walhekar</h1> 
-<h3 align="center">Full Stack Web Developer.</h3>
+<h3 align="center">Future Full Stack Web Developer.</h3>
 <img
 src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
   alt="coding"
@@ -7,12 +7,21 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
   width="400px"
 />
 
-- 🔭 I’m currently working on **Web Development** 
+- 🔭 I’m currently working on **Web Development**
+- 💻 Learning a **MERN Stack**
 - 💬 Ask me about **HTML,CSS,JavaScript,ReactJS** 
 - 📫 How to reach me **walhekar.swapnil2018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/swapnil-walhekar-a1617a209/" target="blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
+      alt="swapnil walhekar"
+      height="30"
+      width="40"
+  /></a>
   <a href="https://www.facebook.com/swapnil.walhekar.16" target="blank"
     ><img
       align="center"
