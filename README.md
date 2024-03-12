@@ -7,10 +7,10 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
   width="400px"
 />
 
-- 🔭 I’m currently working on **Web Development**
-- 💻 Learning a **MERN Stack**
+- 💻 I’m currently working on **Web Development**
+- 🚀 Learning a **MERN Stack**
 - 💬 Ask me about **HTML,CSS,JavaScript,ReactJS** 
-- 📫 How to reach me **walhekar.swapnil2018@gmail.com**
+- 📧 How to reach me **walhekar.swapnil2018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
